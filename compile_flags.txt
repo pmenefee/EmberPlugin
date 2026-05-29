@@ -1,0 +1,15 @@
+-x
+c++
+-std=c++17
+-DGDEXTENSION
+-DWINDOWS_ENABLED
+-DTYPED_METHOD_BIND
+-Igodot-cpp/gdextension
+-Igodot-cpp/include
+-Igodot-cpp/gen/include
+-Igodot-cpp/src
+-imsvcC:/Program Files/Microsoft Visual Studio/18/Community/VC/Tools/MSVC/14.51.36231/include
+-imsvcC:/Program Files (x86)/Windows Kits/10/Include/10.0.26100.0/ucrt
+-imsvcC:/Program Files (x86)/Windows Kits/10/Include/10.0.26100.0/shared
+-imsvcC:/Program Files (x86)/Windows Kits/10/Include/10.0.26100.0/um
+-imsvcC:/Program Files (x86)/Windows Kits/10/Include/10.0.26100.0/winrt

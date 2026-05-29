@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<class name="Test" inherits="Node" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/godotengine/godot/master/doc/class.xsd">
+	<brief_description>
+	</brief_description>
+	<description>
+		This is a simple class to demonstrate how to create a GDNative extension for Godot. It includes a method to say hello and a property to store some data. You can expand this class with more functionality as needed.
+	</description>
+	<tutorials>
+	</tutorials>
+	<methods>
+		<method name="say_hello">
+			<return type="void" />
+			<description>
+			</description>
+		</method>
+	</methods>
+	<members>
+		<member name="my_data" type="String" setter="set_my_data" getter="get_my_data" default="&quot;This is just the beginning!&quot;">
+		</member>
+	</members>
+</class>
